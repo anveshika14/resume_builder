@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
-import Loginpage from './components/mycomponents/Loginpage'
+
 
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-     <Loginpage />
+    
     </>
   )
 }
