@@ -9,6 +9,16 @@ Currently, two official plugins are available:
 
 # 📄 Resume Builder
 
-A simple and customizable Resume Builder application built using **React** and **Vite**. This tool will allow users to easily create, preview, and download professional resumes directly from the browser.
+(In-process)
+A simple and customizable Resume Builder application building using **React** and **Vite**. This tool will allow users to easily create, preview, and download professional resumes directly from the browser.
 
 ---
+
+## 🚀 Features (Planned)
+
+- User-friendly interface
+- Dynamic form fields for personal info, education, work experience, skills, and projects
+- Real-time preview of the resume
+- Download resume as PDF
+- Multiple themes or templates (coming soon)
+- Dark mode (coming soon)
