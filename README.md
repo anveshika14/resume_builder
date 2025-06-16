@@ -22,3 +22,9 @@ A simple and customizable Resume Builder application building using **React** an
 - Download resume as PDF
 - Multiple themes or templates (coming soon)
 - Dark mode (coming soon)
+
+## 🛠️ Tech Stack
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/) 
