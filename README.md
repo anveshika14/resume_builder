@@ -17,7 +17,7 @@ A simple and customizable Resume Builder application building using **React** an
 
 
 
-- Dark mode (coming soon)
+
 
 ## 🛠️ Tech Stack
 
