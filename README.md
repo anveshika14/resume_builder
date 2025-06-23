@@ -15,7 +15,7 @@ A simple and customizable Resume Builder application building using **React** an
 ---
 
 
-- Download resume as PDF (coming soon)
+
 - Multiple themes or templates (coming soon)
 - Dark mode (coming soon)
 
